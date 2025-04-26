@@ -1,6 +1,6 @@
-# Pulse (Dory Clone)
+# Pulse
 
-A full-stack Q&A and Polls platform inspired by Dory. Built with Next.js, Supabase, Prisma and Shadcn.
+A full-stack Q&A and Polls platform. Built with Next.js, Supabase, Prisma and Shadcn.
 
 You can follow along the entire development of this project here 👇
 
